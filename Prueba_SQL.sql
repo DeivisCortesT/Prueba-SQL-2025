@@ -1,5 +1,5 @@
--- Active: 1717368519417@@127.0.0.1@5432@
-CREATE DATABASE prueba_Deivis_Cortes_1407
+-- Active: 1234
+CREATE DATABASE Deivis_Cortes
 
 -- 1 Crea el modelo (revisa bien cual es el tipo de relacion antes de crear), respeta las claves primarias , foraneas y tipos de datos.
 CREATE TABLE peliculas (
